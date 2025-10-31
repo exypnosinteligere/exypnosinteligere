@@ -28,11 +28,11 @@ As tecnologias que estou estudando e aplicando ativamente em meus projetos:
 ## 📊 Estatísticas e Atividade no GitHub
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=exypnosinteligere&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Linguagens" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exypnosinteligere&layout=compact&theme=radical" alt="Top Linguagens" />
 </p>
 
 <p align="center">
